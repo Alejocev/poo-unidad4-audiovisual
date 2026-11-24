@@ -18,4 +18,4 @@ Sistema en Java refactorizado bajo principios de **Código Limpio**, **SOLID**, 
 ## Cómo Clonar y Ejecutar el Proyecto
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/Alejocev/poo-unidad4-audiovisual.git](https://github.com/Alejocev/poo-unidad4-audiovisual.git)
+git clone https://github.com/Alejocev/poo-unidad4-audiovisual.git
