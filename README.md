@@ -18,7 +18,7 @@ Sistema en Java refactorizado bajo principios de **Código Limpio**, **SOLID**, 
 ## Cómo Clonar y Ejecutar el Proyecto
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/Alejocev/poo-unidad4-audiovisual.git](https://github.com/Alejocev/poo-unidad4-audiovisual.git)
+   git clone https://github.com/Alejocev/poo-unidad4-audiovisual.git
    ```
 2. Importar el proyecto en **Eclipse IDE** (`File -> Open Projects from File System...`).
 3. Ubicar la clase `src/vista/Main.java`.
